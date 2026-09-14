@@ -44,13 +44,6 @@ If you like my work, feel free to give my apps a try!
   </a>
 </div>
 
-## Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bileizhen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bileizhen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</div>
-
 ## Snake
 
 <picture>
