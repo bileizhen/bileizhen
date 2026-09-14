@@ -1,5 +1,11 @@
 # Hey there
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&random=false&width=640&lines=AI+Engineer;UI+%C2%B7+Motion+%C2%B7+Interaction+perfectionist;Kotlin+%E2%9C%A6+Compose+%E2%9C%A6+WinUI+%E2%9C%A6+Vue" alt="Typing SVG" />
+  </a>
+</div>
+
 ## **About me**
 
 <table style="border:none">
@@ -9,13 +15,13 @@
   </td>
 
   <td>
-Hi, I'm Zheng (钲). AI engineer.
+Hi, I'm Zheng (钲). AI engineer — and a hopeless perfectionist about UI.
 
-I build Android apps with Kotlin & Jetpack Compose, Windows tools with WinUI 3 & .NET, and small web services on Vercel.
+I obsess over pixel-perfect visuals, smooth motion design, and interaction flows that just *feel right*.
 
-I love playing with LLMs — agents, automation, and dev tooling. Let the models do the boring work.
+I build Android apps with Kotlin & Jetpack Compose (Miuix fan), Windows tools with WinUI 3 & .NET, and small web services on Vercel.
 
-Android customization enthusiast (LSPosed / Xposed) and a light novel reader.
+I also love playing with LLMs — agents, automation, dev tooling. Let the models do the boring work, so I can polish the fun parts.
 
 If you like my work, feel free to give my apps a try!
   </td>
@@ -24,19 +30,26 @@ If you like my work, feel free to give my apps a try!
 
 ## My Projects
 
-| Project | Description |
-| --- | --- |
-| [XBlocker](https://github.com/bileizhen/XBlocker) | LSPosed module that filters spam replies in the Android X (Twitter) client — Miuix + Compose UI |
-| [LeiFetch](https://github.com/bileizhen/LeiFetch) | Multithreaded download manager for Android, taking over app downloads with NSFX — Kotlin/Compose |
-| [ReToolbox](https://github.com/bileizhen/ReToolbox) | Modern Windows desktop toolbox built with WinUI 3 & .NET 8 — software install, update management, system activation, Edge management |
+| Project | Description | Stars |
+| --- | --- | --- |
+| [XBlocker](https://github.com/bileizhen/XBlocker) | LSPosed module that filters spam replies in the Android X (Twitter) client — Miuix + Compose UI | ![XBlocker stars](https://img.shields.io/github/stars/bileizhen/XBlocker?style=social) |
+| [LeiFetch](https://github.com/bileizhen/LeiFetch) | Multithreaded download manager for Android, taking over app downloads with NSFX — Kotlin/Compose | ![LeiFetch stars](https://img.shields.io/github/stars/bileizhen/LeiFetch?style=social) |
+| [ReToolbox](https://github.com/bileizhen/ReToolbox) | Modern Windows desktop toolbox built with WinUI 3 & .NET 8 — software install, update management, system activation, Edge management | ![ReToolbox stars](https://img.shields.io/github/stars/bileizhen/ReToolbox?style=social) |
 
 ## Languages
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=Kotlin)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=Vue.js)
-![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=dotnet)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,cs,dotnet,ts,vue,py&perline=9" alt="My Skills" />
+  </a>
+</div>
+
+## Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bileizhen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bileizhen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+</div>
 
 ## Snake
 
