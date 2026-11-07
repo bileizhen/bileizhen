@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Zheng — interfaces that feel right</title>
+  <desc id="desc">A personal nameplate for Zheng, known as bileizhen. A static circular record and lyric strokes echo the album artwork and lyrics of CurrentMusicX; this is an illustration, not an app screenshot.</desc>
+  <rect width="1200" height="420" rx="24" fill="#101827"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <g id="identity">
+      <text x="64" y="64" fill="#9BAEC9" font-size="22" letter-spacing="3">BILEIZHEN / 钲</text>
+      <text x="57" y="205" fill="#F3F6FC" font-size="132" font-weight="650" letter-spacing="-7">Zheng<tspan fill="#82ACFA">.</tspan></text>
+      <text x="64" y="273" fill="#F3F6FC" font-size="42" letter-spacing="-1">Interfaces that feel right.</text>
+      <text x="65" y="327" fill="#9BAEC9" font-size="25">AI engineer · UI · Motion · Interaction</text>
+      <path d="M64 368 H104" stroke="#82ACFA" stroke-width="3" stroke-linecap="round"/>
+      <text x="119" y="376" fill="#BFD2F3" font-size="22">Android · Windows · Web</text>
+    </g>
+    <g id="music-and-lyrics" transform="translate(772 57)">
+      <circle cx="139" cy="139" r="135" fill="#19253A"/>
+      <circle cx="139" cy="139" r="112" fill="none" stroke="#2C3D58" stroke-width="1.5"/>
+      <circle cx="139" cy="139" r="91" fill="none" stroke="#2C3D58" stroke-width="1.5"/>
+      <circle cx="139" cy="139" r="69" fill="none" stroke="#2C3D58" stroke-width="1.5"/>
+      <path d="M139 4 A135 135 0 0 1 269 174" fill="none" stroke="#82ACFA" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="139" cy="139" r="43" fill="#82ACFA"/>
+      <circle cx="139" cy="139" r="10" fill="#101827"/>
+      <circle cx="269" cy="174" r="8" fill="#F3F6FC"/>
+      <g id="lyric-lines" stroke-linecap="round">
+        <path d="M222 239 H328" stroke="#2C3D58" stroke-width="10"/>
+        <path d="M190 267 H328" stroke="#82ACFA" stroke-width="10"/>
+        <path d="M222 295 H299" stroke="#2C3D58" stroke-width="10"/>
+      </g>
+    </g>
+  </g>
+</svg>

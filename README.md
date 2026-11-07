@@ -1,57 +1,67 @@
-# Hey there
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Zheng (钲) — AI engineer, building interfaces that feel right across Android, Windows, and the web.">
+</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&random=false&width=640&lines=AI+Engineer;UI+%C2%B7+Motion+%C2%B7+Interaction+perfectionist;Kotlin+%E2%9C%A6+Compose+%E2%9C%A6+WinUI+%E2%9C%A6+Vue" alt="Typing SVG" />
-  </a>
-</div>
+# Hi, I'm Zheng (钲).
 
-## **About me**
+AI engineer with a soft spot for thoughtful interfaces, smooth motion, and the little details that make an app feel right.
 
-<table style="border:none">
-<tr>
-  <td style="vertical-align: top">
-    <img width="320" alt="hello!" src="./assets/profile.gif" >
-  </td>
+[Projects](#projects) · [Behind the interfaces](#behind-the-interfaces)
 
-  <td>
-Hi, I'm Zheng (钲). AI engineer — and a hopeless perfectionist about UI.
+## Projects
 
-I obsess over pixel-perfect visuals, smooth motion design, and interaction flows that just *feel right*.
+### [CurrentMusicX ↗](https://github.com/bileizhen/CurrentMusicX)
 
-I build Android apps with Kotlin & Jetpack Compose (Miuix fan), Windows tools with WinUI 3 & .NET, and small web services on Vercel.
+A native Android music client with synced lyrics, dynamic artwork, and support for self-hosted music libraries.
 
-I also love playing with LLMs — agents, automation, dev tooling. Let the models do the boring work, so I can polish the fun parts.
+`Android` · `Kotlin` · `Jetpack Compose`
 
-If you like my work, feel free to give my apps a try!
-  </td>
-</tr>
-</table>
+### [XBlocker ↗](https://github.com/bileizhen/XBlocker)
 
-## My Projects
+Filter spam replies and promoted content in the native Android X client. Local rules, an LSPosed module, and a Miuix + Compose interface.
 
-| Project | Description | Stars |
-| --- | --- | --- |
-| [XBlocker](https://github.com/bileizhen/XBlocker) | LSPosed module that filters spam replies in the Android X (Twitter) client — Miuix + Compose UI | ![XBlocker stars](https://img.shields.io/github/stars/bileizhen/XBlocker?style=social) |
-| [LeiFetch](https://github.com/bileizhen/LeiFetch) | Multithreaded download manager for Android, taking over app downloads with NSFX — Kotlin/Compose | ![LeiFetch stars](https://img.shields.io/github/stars/bileizhen/LeiFetch?style=social) |
-| [ReToolbox](https://github.com/bileizhen/ReToolbox) | Modern Windows desktop toolbox built with WinUI 3 & .NET 8 — software install, update management, system activation, Edge management | ![ReToolbox stars](https://img.shields.io/github/stars/bileizhen/ReToolbox?style=social) |
+`Android` · `Kotlin` · `LSPosed`
 
-## Languages
+### [LeiFetch ↗](https://github.com/bileizhen/LeiFetch)
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,cs,dotnet,ts,vue,py&perline=9" alt="My Skills" />
-  </a>
-</div>
+Take over in-app downloads and run them through a multithreaded NSFX engine ported to Kotlin, with a native Compose download workspace.
 
-## Snake
+`Android` · `Kotlin` · `Jetpack Compose`
+
+### [ReToolbox ↗](https://github.com/bileizhen/ReToolbox)
+
+A Windows toolbox for software installation, updates, and system management, built with WinUI 3 and .NET 8.
+
+`Windows` · `C#` · `WinUI 3`
+
+## Behind the interfaces
+
+<img src="./assets/profile.gif" width="112" align="right" alt="Zheng's animated cat-eared character waving hello.">
+
+I care about pixel-level polish, motion that follows your input, and interaction flows that feel natural. Miuix is a favorite.
+
+Beyond Android and Windows, I build small web services on Vercel and experiment with LLM agents, automation, and developer tools. Let the models do the boring work so I can polish the fun parts.
+
+**My toolkit**<br>
+Kotlin / Jetpack Compose / C# / .NET / WinUI 3 / TypeScript / Vue / Python
+
+<br clear="all">
+
+<details>
+<summary>Off the workbench — contribution snake & visitors</summary>
+
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Light.svg">
+  <img width="100%" alt="Snake animation following bileizhen's GitHub contribution graph." src="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Light.svg">
 </picture>
 
-## Visited By
+![Visitor counter](https://count.getloli.com/get/@bileizhen?theme=gelbooru)
 
-![Visited By](https://count.getloli.com/get/@bileizhen?theme=gelbooru)
+</details>
+
+---
+
+Thanks for stopping by. Try an app, explore the source, or tell me what could feel better.
