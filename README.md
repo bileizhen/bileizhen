@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/static/hero.svg">
-    <img src="./assets/readme/hero.svg" width="100%" alt="Zheng (钲) — AI engineer and interface perfectionist. Android, Windows, and a little automation.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/static/profile-hero.svg">
+    <img src="./assets/readme/profile-hero.svg" width="100%" alt="Zheng (钲) — AI engineer and interface perfectionist. Android, Windows, and a little automation.">
   </picture>
 </p>
 
