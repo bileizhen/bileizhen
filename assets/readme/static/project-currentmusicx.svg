@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="252" viewBox="0 0 600 252" role="img" aria-labelledby="title desc">
+  <title id="title">CurrentMusicX</title>
+  <desc id="desc">Android music, in motion. 原生音乐 · 歌词与自建曲库. Kotlin / Compose / Miuix.</desc>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif">
+  <rect x="1" y="1" width="598" height="234" rx="22" fill="#0E1426" stroke="#2C3854" stroke-width="1.5" />
+  <g transform="translate(29 29)"><g class="app-icon"><svg width="64" height="64" viewBox="0 0 1254 1254"><defs>
+    <linearGradient id="cmx-icon-background" x2="0" y2="1">
+      <stop stop-color="#35B4F6" />
+      <stop offset="1" stop-color="#0058FB" />
+    </linearGradient>
+    <linearGradient id="cmx-icon-stem" x1="682" y1="249" x2="790" y2="778" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" />
+      <stop offset="1" stop-color="#CBE5FB" />
+    </linearGradient>
+    <linearGradient id="cmx-icon-head" x1="500" y1="572" x2="650" y2="982" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" />
+      <stop offset="1" stop-color="#CBE5FB" />
+    </linearGradient>
+  </defs>
+  <rect width="1254" height="1254" rx="250" fill="url(#cmx-icon-background)" />
+  <path fill="url(#cmx-icon-stem)" d="M682,299C682,269 704,249 732,249C759,249 780,272 806,296C842,330 877,356 914,381C949,404 951,443 930,467C905,497 873,485 846,471L812,449C800,440 791,447 791,463L791,778L682,778Z" />
+  <circle cx="589" cy="777" r="205" fill="url(#cmx-icon-head)" />
+</svg></g></g>
+  <text x="112" y="60" fill="#F2F5FF" font-size="34" font-weight="650">CurrentMusicX</text>
+  <text x="113" y="88" fill="#89B4FF" font-size="18" letter-spacing="1">ANDROID</text>
+  <path d="M550 43h16v16m0-16-18 18" stroke="#AAB7D3" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="30" y="132" fill="#E0E7F7" font-size="26">Android music, in motion.</text>
+  <text x="30" y="168" fill="#AAB7D3" font-size="24">原生音乐 · 歌词与自建曲库</text>
+  <path d="M30 191h540" stroke="#27324C" />
+  <text x="30" y="218" fill="#89B4FF" font-size="20">Kotlin / Compose / Miuix</text>
+</g>
+</svg>

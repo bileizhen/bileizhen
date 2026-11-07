@@ -1,67 +1,47 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" width="100%" alt="Zheng (钲) — AI engineer, building interfaces that feel right across Android, Windows, and the web.">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/static/hero.svg">
+    <img src="./assets/readme/hero.svg" width="100%" alt="Zheng (钲) — AI engineer and interface perfectionist. Android, Windows, and a little automation.">
+  </picture>
 </p>
 
-# Hi, I'm Zheng (钲).
+## Hey, I'm Zheng 👋 你好，我是钲
 
-AI engineer with a soft spot for thoughtful interfaces, smooth motion, and the little details that make an app feel right.
+<img src="./assets/profile.gif" width="146" align="left" alt="Zheng's animated cat-eared character.">
 
-[Projects](#projects) · [Behind the interfaces](#behind-the-interfaces)
+AI engineer, Miuix fan, and a little too particular about how interfaces feel.
 
-## Projects
+I build Android apps, Windows tools, and small web services — with a soft spot for smooth motion and thoughtful details.
 
-### [CurrentMusicX ↗](https://github.com/bileizhen/CurrentMusicX)
-
-A native Android music client with synced lyrics, dynamic artwork, and support for self-hosted music libraries.
-
-`Android` · `Kotlin` · `Jetpack Compose`
-
-### [XBlocker ↗](https://github.com/bileizhen/XBlocker)
-
-Filter spam replies and promoted content in the native Android X client. Local rules, an LSPosed module, and a Miuix + Compose interface.
-
-`Android` · `Kotlin` · `LSPosed`
-
-### [LeiFetch ↗](https://github.com/bileizhen/LeiFetch)
-
-Take over in-app downloads and run them through a multithreaded NSFX engine ported to Kotlin, with a native Compose download workspace.
-
-`Android` · `Kotlin` · `Jetpack Compose`
-
-### [ReToolbox ↗](https://github.com/bileizhen/ReToolbox)
-
-A Windows toolbox for software installation, updates, and system management, built with WinUI 3 and .NET 8.
-
-`Windows` · `C#` · `WinUI 3`
-
-## Behind the interfaces
-
-<img src="./assets/profile.gif" width="112" align="right" alt="Zheng's animated cat-eared character waving hello.">
-
-I care about pixel-level polish, motion that follows your input, and interaction flows that feel natural. Miuix is a favorite.
-
-Beyond Android and Windows, I build small web services on Vercel and experiment with LLM agents, automation, and developer tools. Let the models do the boring work so I can polish the fun parts.
-
-**My toolkit**<br>
-Kotlin / Jetpack Compose / C# / .NET / WinUI 3 / TypeScript / Vue / Python
+写代码，也打磨 UI、动效和交互。喜欢用 AI Agent 和自动化处理重复工作，把时间留给有趣的细节。
 
 <br clear="all">
 
-<details>
-<summary>Off the workbench — contribution snake & visitors</summary>
+## Selected work · 我的作品
 
-<br>
+<p align="center">
+  <a href="https://github.com/bileizhen/CurrentMusicX"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/static/project-currentmusicx.svg"><img src="./assets/readme/project-currentmusicx.svg" width="420" alt="CurrentMusicX — Android music, in motion. 原生音乐 · 歌词与自建曲库。"></picture></a>
+  <a href="https://github.com/bileizhen/XBlocker"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/static/project-xblocker.svg"><img src="./assets/readme/project-xblocker.svg" width="420" alt="XBlocker — A quieter timeline on X. 过滤垃圾回复与推广内容。"></picture></a>
+  <a href="https://github.com/bileizhen/LeiFetch"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/static/project-leifetch.svg"><img src="./assets/readme/project-leifetch.svg" width="420" alt="LeiFetch — Downloads, in parallel. 接管应用下载 · 多线程传输。"></picture></a>
+  <a href="https://github.com/bileizhen/ReToolbox"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/static/project-retoolbox.svg"><img src="./assets/readme/project-retoolbox.svg" width="420" alt="ReToolbox — Windows tools, together. 软件安装、更新与系统管理。"></picture></a>
+</p>
+
+## Toolbox · 常用工具
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,cs,dotnet,ts,vue,py&amp;perline=6" alt="Kotlin, C#, .NET, TypeScript, Vue, Python">
+  </a>
+</p>
+
+## After hours · 代码之外
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Light.svg">
-  <img width="100%" alt="Snake animation following bileizhen's GitHub contribution graph." src="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Light.svg">
+  <img width="100%" alt="Snake animation following bileizhen's GitHub contributions." src="https://raw.githubusercontent.com/bileizhen/bileizhen/output/github-snake-Light.svg">
 </picture>
 
+## Visitors · 来过的小伙伴
+
 ![Visitor counter](https://count.getloli.com/get/@bileizhen?theme=gelbooru)
-
-</details>
-
----
-
-Thanks for stopping by. Try an app, explore the source, or tell me what could feel better.
