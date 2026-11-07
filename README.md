@@ -7,15 +7,18 @@
 
 ## Hey, I'm Zheng 👋 你好，我是钲
 
-<img src="./assets/profile.gif" width="146" align="left" alt="Zheng's animated cat-eared character.">
-
-AI engineer, Miuix fan, and a little too particular about how interfaces feel.
-
-I build Android apps, Windows tools, and small web services — with a soft spot for smooth motion and thoughtful details.
-
-写代码，也打磨 UI、动效和交互。喜欢用 AI Agent 和自动化处理重复工作，把时间留给有趣的细节。
-
-<br clear="all">
+<table width="100%">
+  <tr>
+    <td width="172" align="center" valign="middle">
+      <img src="./assets/profile.gif" width="146" alt="Zheng's animated cat-eared character.">
+    </td>
+    <td valign="middle">
+      <p>AI engineer, Miuix fan, and a little too particular about how interfaces feel.</p>
+      <p>I build Android apps, Windows tools, and small web services — with a soft spot for smooth motion and thoughtful details.</p>
+      <p>写代码，也打磨 UI、动效和交互。喜欢用 AI Agent 和自动化处理重复工作，把时间留给有趣的细节。</p>
+    </td>
+  </tr>
+</table>
 
 ## Selected work · 我的作品
 
